@@ -44,7 +44,8 @@ This project is created for learning and practicing Jetpack Compose UI component
 
 ## 📸 Screenshots
 
-![Home Screen](screenshots/home.png)
+<img src="screenshots/home.png" width="250"/>
+
 
 
 
